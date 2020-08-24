@@ -30,7 +30,7 @@ def titleScreenSelect():
 
 def titleScreen():
     print("================================")
-    print("=        Welcome bitch         =")
+    print("=            Welcome           =")
     print("================================")
     print("=            _Play_            =")
     print("=            _About_           =")
